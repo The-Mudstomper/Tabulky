@@ -1,0 +1,14 @@
+table {
+  border-color: black;
+  border-style: solid;
+  border-collapse: collapse;
+}
+td {
+  border-color: black;
+  border-style: solid;
+  text-align: center;
+}
+th {
+  border-color: black;
+  border-style: solid;
+}
